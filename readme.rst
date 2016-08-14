@@ -1,5 +1,5 @@
-################
-bhat is codig
+###################
+What is CodeIgniter
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
