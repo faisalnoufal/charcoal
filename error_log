@@ -1,0 +1,561 @@
+[21-Nov-2015 10:09:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[21-Nov-2015 10:10:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[21-Nov-2015 10:10:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[21-Nov-2015 10:19:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[21-Nov-2015 10:59:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[21-Nov-2015 10:59:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[21-Nov-2015 10:59:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[21-Nov-2015 11:00:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[23-Nov-2015 09:26:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[23-Nov-2015 09:26:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[23-Nov-2015 09:26:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[23-Nov-2015 09:26:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[26-Nov-2015 11:47:38 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/DB_query_builder.php on line 1391
+[26-Nov-2015 11:47:52 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/DB_query_builder.php on line 1391
+[26-Nov-2015 11:51:12 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/DB_query_builder.php on line 1391
+[26-Nov-2015 11:51:17 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/DB_query_builder.php on line 1391
+[26-Nov-2015 11:51:38 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/DB_query_builder.php on line 1391
+[28-Nov-2015 14:53:07 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[06-Dec-2015 02:13:09 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 14:53:34 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 14:53:38 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 14:53:45 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 14:59:37 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 15:31:00 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 15:31:19 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 15:31:25 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 15:31:40 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 16:05:31 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:42:11 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:53:06 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:53:13 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:53:21 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:54:34 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:54:39 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:54:44 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:55:17 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:55:51 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:56:14 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:56:51 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:59:18 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 17:59:23 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 18:00:15 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 18:00:51 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 18:00:55 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[08-Dec-2015 18:01:07 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalTrips() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 12
+[09-Dec-2015 11:07:52 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:07:53 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:07:54 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:08:37 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:08:41 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:14:06 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:14:10 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:14:29 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:14:30 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:14:32 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:14:36 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:14:40 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:14:43 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:14:49 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:14:50 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:15:00 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:15:30 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:15:31 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:15:32 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:15:33 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:15:40 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:16:04 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:16:05 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:16:11 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:16:21 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:16:48 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:18:12 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:18:39 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:18:43 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:18:46 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:19:04 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:19:16 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:20:04 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:20:05 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:20:08 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:20:46 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:20:54 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:21:05 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:25:22 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:25:41 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:26:31 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:31:54 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:32:13 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:32:30 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:33:07 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:33:15 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:33:25 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:33:35 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[09-Dec-2015 11:33:45 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Cabs_model.php on line 31
+[19-Dec-2015 12:34:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[19-Dec-2015 12:34:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[19-Dec-2015 12:34:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[19-Dec-2015 12:34:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/api/Passenger.php on line 48
+[28-Dec-2015 11:03:07 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[28-Dec-2015 11:06:07 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[29-Dec-2015 16:30:28 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[29-Dec-2015 16:30:45 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[29-Dec-2015 16:30:48 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[29-Dec-2015 16:31:06 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[29-Dec-2015 16:31:08 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[29-Dec-2015 16:31:26 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[29-Dec-2015 16:31:28 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:29:09 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalBookings() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 14
+[30-Dec-2015 12:29:14 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalBookings() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 14
+[30-Dec-2015 12:29:19 Asia/Kolkata] PHP Fatal error:  Call to a member function getTotalBookings() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Home.php on line 14
+[30-Dec-2015 12:30:55 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[30-Dec-2015 12:31:00 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:01 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:01 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:02 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:03 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:04 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:05 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:13 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[30-Dec-2015 12:31:17 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[30-Dec-2015 12:31:25 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[30-Dec-2015 12:31:30 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:31 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:32 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:33 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:34 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:47 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:48 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:48 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:49 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:50 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:51 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:51 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:52 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:53 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[30-Dec-2015 12:31:54 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 374
+[31-Dec-2015 13:38:24 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:38:33 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:38:40 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:41:02 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:41:36 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:41:38 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:42:37 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:44:05 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:45:53 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:46:37 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:46:56 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:58:41 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:58:46 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:58:58 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:59:07 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 13:59:15 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[31-Dec-2015 14:02:27 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Search_model.php on line 41
+[02-Jan-2016 08:03:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[02-Jan-2016 08:03:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[04-Jan-2016 17:58:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[04-Jan-2016 17:58:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[04-Jan-2016 18:11:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[04-Jan-2016 18:14:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Drivers_model::getMyReferrals() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Drivers.php on line 169
+[04-Jan-2016 18:14:51 Asia/Kolkata] PHP Fatal error:  Call to undefined method Drivers_model::getMyReferrals() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Drivers.php on line 169
+[05-Jan-2016 06:14:58 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[05-Jan-2016 06:15:05 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[05-Jan-2016 06:15:17 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[05-Jan-2016 06:15:29 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[05-Jan-2016 06:15:43 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[05-Jan-2016 09:46:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[05-Jan-2016 10:20:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[05-Jan-2016 10:20:11 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[05-Jan-2016 10:20:18 Asia/Kolkata] PHP Fatal error:  Call to a member function getDriversCount() on a non-object in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 136
+[05-Jan-2016 10:21:02 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[05-Jan-2016 10:21:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[05-Jan-2016 10:22:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[05-Jan-2016 10:22:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[05-Jan-2016 10:23:46 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[05-Jan-2016 10:23:49 Asia/Kolkata] PHP Fatal error:  Call to undefined method Profile_model::getCabNames() in /home/indemo/public_html/mlm-demo/Cab_Management/application/controllers/Profile.php on line 15
+[05-Jan-2016 11:38:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:38:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:39:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:39:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:40:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:40:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:40:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:40:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:40:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:43:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:43:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:45:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IF in /home/indemo/public_html/mlm-demo/Cab_Management/application/models/Api_model.php on line 16
+[05-Jan-2016 11:09:15 UTC] PHP Fatal error:  Call to undefined method Drivers_model::getMyReferrals() in /home/adminajoul/public_html/Cab_Management/application/controllers/Drivers.php on line 169
+[08-Jan-2016 11:21:43 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 11:21:53 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 11:40:50 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 11:41:00 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 11:41:10 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 11:41:20 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 12:13:39 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 12:13:49 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 12:13:59 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 12:14:09 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 12:14:19 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 12:14:29 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 12:14:39 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[08-Jan-2016 12:14:48 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:24:52 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:25:03 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:25:13 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:25:23 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:25:33 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:25:43 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:27:37 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:27:47 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:27:57 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:28:07 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:28:17 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:28:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:28:42 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:28:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:29:06 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:29:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:29:26 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:29:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:29:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:29:56 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:30:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:30:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:30:26 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:30:36 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:30:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:30:56 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:31:06 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:31:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:31:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:31:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:31:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:31:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:32:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:32:16 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:32:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:32:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:32:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:32:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:33:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:33:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:33:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:33:36 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:33:46 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:33:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:34:06 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:34:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:34:26 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:34:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:34:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:34:56 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:35:06 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:35:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:35:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:35:41 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:35:52 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:35:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:36:08 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:36:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:36:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:36:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:36:46 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:36:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:37:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:37:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:37:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:37:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:37:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:37:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:38:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:38:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:38:26 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:38:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:38:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:38:56 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:39:06 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:39:16 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:39:26 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:39:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:39:46 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:39:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:40:06 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:40:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:40:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:40:36 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:40:46 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:40:56 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:41:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:41:16 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:41:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:41:36 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:41:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:41:56 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:42:06 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:42:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:42:26 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:42:36 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:42:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:42:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:43:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:43:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:43:26 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:43:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:43:46 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:43:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:44:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:44:16 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:44:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:44:36 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 06:44:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 90
+[09-Jan-2016 07:00:04 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:00:14 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:00:24 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:00:37 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:00:44 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:00:57 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:01:04 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:01:14 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:01:24 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:01:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:01:44 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:01:54 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:02:04 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:02:14 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:02:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:02:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:02:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:02:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:03:06 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:03:18 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:03:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:03:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:03:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:03:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:04:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:04:14 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:12:11 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:12:21 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:12:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 07:12:41 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 11:32:39 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 11:32:49 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 12:42:52 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/adminajoul/public_html/Cab_Management/application/models/Register_model.php on line 85
+[09-Jan-2016 12:44:58 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:00:33 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:00:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:01:02 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:01:12 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:01:19 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:01:30 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:01:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:01:46 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:02:00 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:02:06 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:02:17 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:02:27 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:05:22 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:05:26 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:05:28 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:10:24 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:10:29 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:10:34 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:10:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:11:01 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:11:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:17:07 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:17:18 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:17:43 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[09-Jan-2016 14:17:49 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:38:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:38:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:38:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:38:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:38:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:38:56 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:39:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:39:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:39:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:39:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:39:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:39:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:40:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:40:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:40:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:40:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:40:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:40:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:41:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:41:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:41:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:41:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:41:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:41:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:42:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:42:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:42:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:42:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:42:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:42:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:43:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:43:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:43:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:43:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:43:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:43:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:44:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:44:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:44:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:44:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:44:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:44:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:45:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:45:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:45:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:45:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:45:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:45:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:46:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:46:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:46:26 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:46:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:46:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:46:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:47:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:47:10 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:47:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:47:20 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:47:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:47:29 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:47:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:47:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:47:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:48:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:48:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:48:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:48:35 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:48:45 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:48:55 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:49:05 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:49:15 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 05:49:25 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:03:01 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:03:10 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:03:21 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:03:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:03:40 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:03:50 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:04:00 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:04:10 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:04:20 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:04:30 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:04:40 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:04:50 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:05:00 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:05:11 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:05:21 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:05:30 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:05:40 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:05:50 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:06:00 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:06:11 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:06:20 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:06:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:06:40 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:06:51 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:07:00 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:07:10 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:07:20 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:07:30 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:07:41 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:07:51 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:08:01 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:08:11 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:08:20 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:08:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:08:41 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:29:01 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:29:11 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:29:21 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:29:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:29:41 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:29:51 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:30:01 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:30:11 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:30:21 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:30:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:30:41 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:30:52 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:31:01 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:31:11 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:31:21 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:31:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:31:41 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:31:51 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:32:01 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:32:11 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:32:21 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:32:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:32:41 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:32:51 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:33:01 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:33:12 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:33:21 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:33:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:33:41 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:33:51 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:34:01 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:34:11 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:34:21 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:34:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:35:11 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:35:21 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:35:31 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[11-Jan-2016 06:35:41 UTC] PHP Fatal error:  Call to undefined method Home_model::getLastTripReject() in /home/adminajoul/public_html/Cab_Management/application/controllers/Home.php on line 103
+[22-Jan-2016 04:45:48 UTC] PHP Fatal error:  Call to a member function clean() on null in /home/adminajoul/public_html/Cab_Management/application/controllers/Cleanup.php on line 13
+[22-Jan-2016 04:46:33 UTC] PHP Fatal error:  Call to a member function clean() on null in /home/adminajoul/public_html/Cab_Management/application/controllers/Cleanup.php on line 13
+[22-Jan-2016 04:57:32 UTC] PHP Fatal error:  Call to a member function clean() on null in /home/adminajoul/public_html/Cab_Management/application/controllers/Cleanup.php on line 13
+[17-Mar-2016 04:42:56 UTC] PHP Fatal error:  Call to a member function insertToTmpDetails() on a non-object in /home/ajoul/public_html/sites/admin/application/controllers/Cron.php on line 30
+[17-Mar-2016 05:00:50 UTC] PHP Fatal error:  Call to a member function insertToTmpDetails() on a non-object in /home/ajoul/public_html/sites/admin/application/controllers/Cron.php on line 33
+[17-Mar-2016 05:07:51 UTC] PHP Fatal error:  Call to a member function insertToTmpDetails() on a non-object in /home/ajoul/public_html/sites/admin/application/controllers/Cron.php on line 36
+[17-Mar-2016 05:07:53 UTC] PHP Fatal error:  Call to a member function insertToTmpDetails() on a non-object in /home/ajoul/public_html/sites/admin/application/controllers/Cron.php on line 36
+[22-Mar-2016 11:19:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ajoul/public_html/sites/admin/application/models/Api_model.php on line 2238
+[22-Mar-2016 11:21:10 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ajoul/public_html/sites/admin/application/models/Api_model.php on line 2238
+[22-Mar-2016 11:28:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ajoul/public_html/sites/admin/application/models/Api_model.php on line 2238
+[22-Mar-2016 11:30:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ajoul/public_html/sites/admin/application/models/Api_model.php on line 2238
+[13-Apr-2016 11:20:51 UTC] PHP Fatal error:  Call to undefined method Driver::post() in /home/ajoul/public_html/sites/admin/application/controllers/android/Driver.php on line 34
+[16-Apr-2016 05:28:14 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/ajoul/public_html/sites/admin/application/models/Api_model.php on line 2467
+[19-Apr-2016 01:18:45 UTC] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/ajoul/public_html/sites/admin/application/models/Home_model.php on line 16
+[19-Apr-2016 01:18:45 UTC] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/ajoul/public_html/sites/admin/application/models/Search_model.php on line 22
+[19-Apr-2016 01:18:45 UTC] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/ajoul/public_html/sites/admin/application/models/Search_model.php on line 22
+[20-Apr-2016 07:25:10 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:16 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:19 UTC] PHP Fatal error:  Call to undefined method Passenger::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:21 UTC] PHP Fatal error:  Call to undefined method Passenger::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:22 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:26 UTC] PHP Fatal error:  Call to undefined method Passenger::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:29 UTC] PHP Fatal error:  Call to undefined method Passenger::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:29 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:35 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:41 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:46 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:51 UTC] PHP Fatal error:  Call to undefined method Passenger::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:52 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:25:58 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:26:05 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:26:10 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:26:16 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:26:23 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:26:29 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:26:35 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:26:41 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 18
+[20-Apr-2016 07:26:46 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 20
+[20-Apr-2016 07:26:47 UTC] PHP Fatal error:  Call to undefined method Passenger::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 20
+[20-Apr-2016 07:26:53 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 20
+[20-Apr-2016 07:26:59 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 20
+[20-Apr-2016 07:27:04 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 20
+[20-Apr-2016 07:27:10 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 20
+[20-Apr-2016 07:27:13 UTC] PHP Fatal error:  Call to undefined method Passenger::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 20
+[20-Apr-2016 07:27:17 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 20
+[20-Apr-2016 07:27:22 UTC] PHP Fatal error:  Call to undefined method Driver::current_url() in /home/ajoul/public_html/sites/admin/application/controllers/android/Core_Api_Controller.php on line 20

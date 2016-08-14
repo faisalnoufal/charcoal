@@ -1,0 +1,5 @@
+[18-Mar-2016 05:32:01 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/ajoul/public_html/sites/admin/cron/temperature_setting.php on line 16
+[18-Mar-2016 05:32:01 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/ajoul/public_html/sites/admin/cron/temperature_setting.php on line 16
+[18-Mar-2016 05:32:03 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/ajoul/public_html/sites/admin/cron/temperature_setting.php on line 16
+[18-Mar-2016 05:32:14 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/ajoul/public_html/sites/admin/cron/temperature_setting.php on line 16
+[18-Mar-2016 06:15:11 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/ajoul/public_html/sites/admin/cron/temperature_setting.php on line 15
